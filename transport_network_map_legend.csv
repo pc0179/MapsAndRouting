@@ -1,0 +1,10 @@
+RGB_Hex_Code,Speed,Link_Type
+0x000000,-1,No_road
+0xffffff,1,Junction
+0xb03a2e,2,Footpath
+0x6c3483,3,Lane
+0x2874a6,5,Single_carriage_way
+0x117565,10,Dual_carriage_way
+0x239b56,15,Motorway
+0xd4ac0d,20,Highspeed_rail
+0xd35400,100,Start_finish
